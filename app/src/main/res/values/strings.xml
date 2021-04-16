@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Simulador</string>
+    <string name="simulator_title">Simulador de compras con Tarjeta</string>
+    <string name="dni_title">DNI</string>
+    <string name="dni_number_title">Nº</string>
+    <string name="dni_hint">Ejem: 44444444</string>
+    <string name="card_type_title">Tipo de Tarjeta</string>
+    <string name="spinner_hint">Simple</string>
+    <string name="amount_title">Monto</string>
+    <string name="amount_symbol_pe">S/</string>
+    <string name="amount_hint">999.00</string>
+    <string name="fee_title">Cuotas a financiar</string>
+    <string name="rate_title">Tasa de interés anual TEA</string>
+    <string name="fee_result">Tu cuota de pago estimada es</string>
+    <string name="first_fee_date">Fecha de pago de primera cuota: </string>
+    <string name="result_description">* Cuota Mensual: El valor de la cuota corresponde sólo al monto de la compra, no incluye otros gastos y comisiones.\n* Para la simulación de tu compra se ha considerado el envío electrónico del estado de cuenta, el cual no tiene costo.</string>
+    <string name="day_pay_title">Día de pago</string>
+    <string name="result_button_title">Volver al simulador</string>
+</resources>
